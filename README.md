@@ -18,3 +18,6 @@ This authentication app is built using the MERN (MongoDB, Express.js, React.js, 
 - **bcrypt**: Library for hashing passwords.
 - **jsonwebtoken**: For generating and verifying JSON Web Tokens (JWT) for authentication.
 - **axios**: HTTP client for making requests to the backend from the frontend.
+
+  ## Postman Documentation
+  https://documenter.getpostman.com/view/24534515/2s9YsGiDKM
