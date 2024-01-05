@@ -20,4 +20,4 @@ This authentication app is built using the MERN (MongoDB, Express.js, React.js, 
 - **axios**: HTTP client for making requests to the backend from the frontend.
 
   ## Postman Documentation
-  https://documenter.getpostman.com/view/24534515/2s9YsGiDKM
+https://documenter.getpostman.com/view/24534515/2s9YsGiDKM
